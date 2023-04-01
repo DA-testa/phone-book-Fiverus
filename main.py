@@ -1,4 +1,5 @@
 # python3
+# Vladislavs Fedins 221RDB416
 
 class Query:
     def __init__(self, query):
